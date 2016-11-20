@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_c0b1ebabe4cecbac714c34e29243b7be630d0bcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_ebd05387aa502c7aaf392b92899fc08791b5cc3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8c11b8d0876705d981f4c37987a15bbca9556bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fd7f63d5e7c1fe83e0ab85b1c919baab66ce0725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_8de94579c0a1763031bc0ee2bd2822177d6862e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_de26e8eea61db8f76ca3d2d936066eeec31083ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_c0b83557acf572d6995ec8da7e710a914693cc2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_6667f6836790cc2fb04871189b32c2f0d2032102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_cad282e8551da37102b724a4a14a9da34ef5b053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_8692777acdb5e3784cc1079b543c5ede3c329731\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b900dbeefa701ef1b8773d256dfb70beff830489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_6d8e0ec05c3e2d3a477cb1bb072fea01e5b7d3c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_5a9d60912cd0a9b15d20c6b15c63cea0e1452f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_3100663cd5aa5044d5697d6901f32636f363b407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_905c6a2a49fa7f6383d8381f0e944f5f2b23a77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_df87e69cf24f3f305f17abc36a3841a70f5b9bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_bbc7eb83e5d44a18004c1c8b8ccf7b41149d5148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_89f0f530eaca873d0594b2c52a414dd7a664ba02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9e09ae182e666c3988600d2275e7bb9d8d9879ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_843dcea95b1fc9f2afafb138617a8da197b2510b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_603aa84215c5809a35cfd66a9d108c0af5817a80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_3975b7fd1c62f834e3fca5c73404f4f52a46ac3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="10b0d464d8454c60be4a4e545dd3aab98d092033">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e6e6035156aa7209632015cccd45d37480210859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_b2f7e93b58584f4189fac794d29ab423f44a1a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_437f8f695cb697015d7cd6aac253d2db9bbf7572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_aa5b2d6286532e7b5b4df5fb0f88f2d746db9bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_fa4eb49b85e1a5da36ed08b88823a04c74220adb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_be0a1dc6513916a631d80eeeeaa1a612aed99279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_0659b964ec977eb8385d821f9bd4ad3f6a8a6f21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4a01f9545c73fb1ed807d704eac0cfda4bd9bc81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_3de009af5e538fcf5ad7d1498afc8840457a7a3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_7702f24db89230351b18e5a04604daee363654c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_bed9ba5426909b6aca81daf8289eeb532078079c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_55d1a8602bcec7f71c2879599f230166eb65a36e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_f63af7bbc0f02e936e1ed040382a127b6ffb1bbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e808bfb8124ab264d387adaac957435edc714fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_970280d9294ff879defe09c47546e3a918805802\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_275949e8099daead449dd019642b216e3f2e31f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_8692777acdb5e3784cc1079b543c5ede3c329731\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_c38a246891f49026550911f94cd5ac6ad13bb6c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_ebd05387aa502c7aaf392b92899fc08791b5cc3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_caba6894caf6a3ce3cee4c042ef44013293962d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_3d45128b026e62ee6ebe7c95747b8e5bed3f83df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_5f3d9b78f06dd863255f50a1b8a4856d63ab60c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_6d8e0ec05c3e2d3a477cb1bb072fea01e5b7d3c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b900dbeefa701ef1b8773d256dfb70beff830489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_c0b83557acf572d6995ec8da7e710a914693cc2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_81dfd6a7eddad46211c024797169970d5cd35803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_b31a9d47602aa810ed2856962640f119ed9c33d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_df87e69cf24f3f305f17abc36a3841a70f5b9bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_3100663cd5aa5044d5697d6901f32636f363b407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_a8c67b3e1d2f0c2eacb2ef8d58304c933e78a70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_5fc86fb3cc48a179825875f132981f8dae719cfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_905c6a2a49fa7f6383d8381f0e944f5f2b23a77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_843dcea95b1fc9f2afafb138617a8da197b2510b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_aa10dfce017fb67a1dd54131ea793672974236c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_6a1aefa20da51b4d924028b5f6a2d592ae26ca12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_89f0f530eaca873d0594b2c52a414dd7a664ba02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e808bfb8124ab264d387adaac957435edc714fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_ffb4b8771329880fc47bd04905f0771e6615bc1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_437f8f695cb697015d7cd6aac253d2db9bbf7572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_651ba15dec0faa5c8d5fc46759000186454da23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_b2f7e93b58584f4189fac794d29ab423f44a1a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_3b53fc7fd6fdd7fbc2c3acbc3e9aef368f5f739a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_0a54b43d2be1341b297d57879c77a79dcd6d232b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_a84a61f1385b00346277604257dc0a9864b0bffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_3498b856db8a1aff211a953ca3f3cc01096a10da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_f63af7bbc0f02e936e1ed040382a127b6ffb1bbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_bed9ba5426909b6aca81daf8289eeb532078079c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_bbdc4e992b1e5a653d8d8f63e3b7ddd06296d57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_55d1a8602bcec7f71c2879599f230166eb65a36e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_adf53f24249cd43e7a6e02618e689eca17d1b6fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_180c9e34aea1d832b74f9731b471e5f0c6c28494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_275949e8099daead449dd019642b216e3f2e31f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_c38a246891f49026550911f94cd5ac6ad13bb6c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_adf53f24249cd43e7a6e02618e689eca17d1b6fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_3d45128b026e62ee6ebe7c95747b8e5bed3f83df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_b3b8209d6d7f6dfee4aed24a72cc0558e86ac3ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_5fc86fb3cc48a179825875f132981f8dae719cfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_970280d9294ff879defe09c47546e3a918805802\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_5f3d9b78f06dd863255f50a1b8a4856d63ab60c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_e79bb83ec429f2f001000fb2a4f227b56907164a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_b31a9d47602aa810ed2856962640f119ed9c33d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_53bbaaf0a0319810746247a0c71950742d8789ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_651ba15dec0faa5c8d5fc46759000186454da23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_10d4a507205fecf9b340db53c85794c87c0800de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_ac499e47633f0527c3679de552dd03adec88d5f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_a8c67b3e1d2f0c2eacb2ef8d58304c933e78a70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_a12a91c0517f423937f2ae9c29f1a7cd1ededf07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_6a1aefa20da51b4d924028b5f6a2d592ae26ca12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_3b53fc7fd6fdd7fbc2c3acbc3e9aef368f5f739a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_f85866bc7f0fd94300672fdf14b1f78db76f01d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_180c9e34aea1d832b74f9731b471e5f0c6c28494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_787f27130459870c3eabb8d0b1b98db12c964754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_c0c8599985329cc5adb4ece9511ac40fba524b75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_a30f96fe21eeb8d8870f83e96b45ac1617054216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_a84a61f1385b00346277604257dc0a9864b0bffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_4734433d416a470704b98bca17c38c67a7f05b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_0a54b43d2be1341b297d57879c77a79dcd6d232b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_86f64540362714bf1f677b052bba4b1c6b926360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_a9e45d06374902779f3bc5185a31ea2fd53bc8e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97aeb32b91d96f669807e8465d86a55749144b49">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b4723c648f0ed03b5a2e3f8d5aca5721b4b5e46d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_ffb4b8771329880fc47bd04905f0771e6615bc1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_18c437f1d7ebfee2ab4835f708a1bb807b7e6075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_3498b856db8a1aff211a953ca3f3cc01096a10da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_8de94579c0a1763031bc0ee2bd2822177d6862e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fd7f63d5e7c1fe83e0ab85b1c919baab66ce0725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8c11b8d0876705d981f4c37987a15bbca9556bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_bbdc4e992b1e5a653d8d8f63e3b7ddd06296d57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_cad282e8551da37102b724a4a14a9da34ef5b053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_18c437f1d7ebfee2ab4835f708a1bb807b7e6075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_b3b8209d6d7f6dfee4aed24a72cc0558e86ac3ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_ac499e47633f0527c3679de552dd03adec88d5f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_de26e8eea61db8f76ca3d2d936066eeec31083ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_53bbaaf0a0319810746247a0c71950742d8789ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_5a9d60912cd0a9b15d20c6b15c63cea0e1452f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_10d4a507205fecf9b340db53c85794c87c0800de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_6667f6836790cc2fb04871189b32c2f0d2032102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_a12a91c0517f423937f2ae9c29f1a7cd1ededf07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_3975b7fd1c62f834e3fca5c73404f4f52a46ac3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_aa10dfce017fb67a1dd54131ea793672974236c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_603aa84215c5809a35cfd66a9d108c0af5817a80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_aa5b2d6286532e7b5b4df5fb0f88f2d746db9bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_f85866bc7f0fd94300672fdf14b1f78db76f01d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_fa4eb49b85e1a5da36ed08b88823a04c74220adb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9e09ae182e666c3988600d2275e7bb9d8d9879ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_a30f96fe21eeb8d8870f83e96b45ac1617054216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4a01f9545c73fb1ed807d704eac0cfda4bd9bc81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61acdba8b754ea63ce67831f734338a6a3039ab5">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e6e6035156aa7209632015cccd45d37480210859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_e79bb83ec429f2f001000fb2a4f227b56907164a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_81dfd6a7eddad46211c024797169970d5cd35803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_a9e45d06374902779f3bc5185a31ea2fd53bc8e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_c0c8599985329cc5adb4ece9511ac40fba524b75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_be0a1dc6513916a631d80eeeeaa1a612aed99279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_0659b964ec977eb8385d821f9bd4ad3f6a8a6f21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_4734433d416a470704b98bca17c38c67a7f05b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_3de009af5e538fcf5ad7d1498afc8840457a7a3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_caba6894caf6a3ce3cee4c042ef44013293962d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_7702f24db89230351b18e5a04604daee363654c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_787f27130459870c3eabb8d0b1b98db12c964754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_c0b1ebabe4cecbac714c34e29243b7be630d0bcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="97aeb32b91d96f669807e8465d86a55749144b49">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b4723c648f0ed03b5a2e3f8d5aca5721b4b5e46d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_bbc7eb83e5d44a18004c1c8b8ccf7b41149d5148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\porata1\AndroidStudioProjects\ToDoish2\ToDoish\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_86f64540362714bf1f677b052bba4b1c6b926360\classes.dex" />
+    </item>
+
+</items>

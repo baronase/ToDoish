@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        >
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/customborderlight">
+
+            <TextView
+                android:text="Repeat Rate : "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:id="@+id/tvAddTaskRR"
+                android:layout_weight="1"/>
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rgRepeat"
+                android:layout_gravity="left"
+                android:gravity="left"
+                android:checkedButton="@+id/radioButtonWeekly"
+                android:layout_weight="1">
+
+                <RadioButton
+                    android:text="Weekly"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/radioButtonWeekly"
+                    />
+
+                <RadioButton
+                    android:text="Monthly"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/radioButtonMonthly"
+                    />
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:background="@drawable/customborder">
+
+            <TextView
+                android:text="Goal : "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:id="@+id/tvAddTaskGoal"
+                android:layout_weight="2"/>
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="numberSigned"
+                android:id="@+id/etAddTaskGoal"
+                android:text="10" />
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/spnrAddTaskGoalUnits"
+                />
+
+            <TextView
+                android:text=" A Week"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:id="@+id/tvAddTaskRepeat"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
